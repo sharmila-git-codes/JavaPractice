@@ -16,7 +16,7 @@ class Variables {
 		String _printIdentifer = "Hellooo";
 //		String char = "doctor";
 		String character = "doctor";
-		
+		System.out.println();
 		
 		
 	}
